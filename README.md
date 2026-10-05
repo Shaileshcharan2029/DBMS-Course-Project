@@ -1,30 +1,45 @@
 # Scholarship & Financial Aid Management System
 
-A Python-based Scholarship and Financial Aid Management System developed using Tkinter and MySQL.
+A Python-based Scholarship and Financial Aid Management System developed using **Tkinter** and **MySQL**.
 
-## Features
+## 📌 Project Overview
 
+This project provides a graphical interface for managing student information and scholarship applications.
+
+The system allows users to add, view, update, and manage students and their scholarship applications through a simple desktop application.
+
+## 🚀 Features
+
+### Student Management
 - View Students
 - Add Student
 - Update Student
+
+### Scholarship Application Management
 - View Scholarship Applications
 - Add Application
-- Delete Application
 - Update Application
-- MySQL Database Integration
+- Delete Application
 
-## Technologies Used
+### Database
+- MySQL database integration
+- Student information management
+- Scholarship application management
 
-- Python
-- Tkinter
-- MySQL
-- mysql-connector-python
+## 🛠️ Technologies Used
 
-## Project Structure
+- **Python**
+- **Tkinter**
+- **MySQL**
+- **mysql-connector-python**
+
+## 📂 Project Structure
 
 ```text
 ScholarshipSystem/
 │
 ├── app.py
 ├── app_backup.py
+├── requirements.txt
+├── .gitignore
 └── README.md
