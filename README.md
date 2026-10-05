@@ -35,6 +35,13 @@ The system allows users to add, view, update, and manage students and their scho
 
 ## 📂 Project Structure
 
+## ⚙️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Shaileshcharan2029/ScholarshipSystem.git
+
 ```text
 ScholarshipSystem/
 │
