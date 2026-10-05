@@ -1,7 +1,7 @@
 # Scholarship & Financial Aid Management System
 
 **Name:** Shailesh Charan  
-**Roll Number:** YOUR_ROLL_NUMBER  
+**Roll Number:** 25WU0102252
 **Project Title:** Scholarship & Financial Aid Management System  
 
 **Description:** A Python-based system for managing student information and scholarship applications using Tkinter and MySQL.
