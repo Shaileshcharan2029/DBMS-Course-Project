@@ -4,4 +4,4 @@
 **Roll Number:** 25WU0102252
 **Project Title:** Scholarship & Financial Aid Management System  
 
-**Description:** A Python-based system for managing student information and scholarship applications using Tkinter and MySQL.
+**Description:** A system for managing student information and scholarship applications using Tkinter and MySQL.
